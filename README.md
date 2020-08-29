@@ -33,7 +33,7 @@ So it's possible to the students to visualize available teachers  to teach them 
 #### Cloning the project
 ```sh
 
-git https://github.com/LeonardoGarbelotti/Next-Level-Week2.git
+git https://github.com/brunobgf/next-level-week
 
 ```
 #### Installation 
