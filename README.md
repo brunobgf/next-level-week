@@ -3,12 +3,6 @@
   Next Level Week #2
 </h4>
 
-<p align="center">
-  <a href="#rocket-tecnologias"> :rocket: Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">🔖 How To Execute</a>&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 ## :rocket: Technologies
