@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Página Inicial" src="./landingpage.png" width="450px" />
-</h1>
 
 <h4 align="center">
   Next Level Week #2
