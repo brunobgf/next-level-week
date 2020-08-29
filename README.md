@@ -4,9 +4,9 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias"> :rocket: Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">🔖 How To Execute</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-execute">🔖 How To Execute</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
